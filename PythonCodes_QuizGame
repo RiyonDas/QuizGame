@@ -1,0 +1,6 @@
+print("WELCOME TO MY QUIZ GAME")
+game = input("Do you want to play the game ?")
+if game == "yes":
+    print("Great! Let's get started")
+else:
+    print("Oops,ok never mind")
