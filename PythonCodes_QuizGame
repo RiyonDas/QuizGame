@@ -43,3 +43,4 @@ else:
 
 #final_score_statement
 print("You got " + str(points) + " out of 4")
+ 
